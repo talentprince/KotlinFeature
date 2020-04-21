@@ -3,9 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-
 .gradle
-
 ### STS ###
 .apt_generated
 .classpath
@@ -32,4 +30,8 @@ build/
 ### VS Code ###
 .vscode/
 images/
+<<<<<<< HEAD
 monitor.log
+=======
+monitor.log
+>>>>>>> Init project
